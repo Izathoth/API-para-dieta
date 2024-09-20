@@ -22,3 +22,4 @@ Esta é uma API simples para gerenciar diferentes tipos de dietas, construída u
 - **POST /dietas**: Adiciona uma nova dieta.
 - **PUT /dietas/{id}**: Atualiza uma dieta existente.
 - **DELETE /dietas/{id}**: Deleta uma dieta pelo ID.
+![](https://camo.githubusercontent.com/c460d41f097c17a0198062e0efcd4b9396db8079277e464385b72a486f4e3a62/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323136342f323136343833322e706e67)
